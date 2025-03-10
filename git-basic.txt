@@ -1,1 +1,1 @@
-echo "Christan Jay C. Belandres"
+ "Christan Jay C. Belandres"
